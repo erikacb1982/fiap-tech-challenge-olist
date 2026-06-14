@@ -1,0 +1,29 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Saídas e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos exportados gerados localmente
+*.png
+*.jpg
+*.jpeg
+*.html
+*.pdf
